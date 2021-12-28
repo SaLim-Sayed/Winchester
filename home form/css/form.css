@@ -1,0 +1,270 @@
+
+
+/*Start section Header style*/
+
+header{
+    background-color: #58614E;
+    padding: 5px 0px;
+    height: 100px;
+}
+ul .nav-item {
+    margin-left: 8px;
+}
+.nav-link{
+color: rgb(213, 211, 206) !important ;
+margin-left: 20px;
+text-decoration: underline;
+
+}
+a:hover{
+    color: cyan !important;
+    text-decoration: underline;
+  }
+    
+
+a:visited {
+    text-decoration: none;
+  }
+  
+ 
+  
+  a:active {
+    text-decoration: underline;
+    background-color: rgb(51, 128, 133);
+  }
+
+
+.sec1 {
+    background-color: #E2E2E2;
+    border: 1px solid white;
+}
+.sec1 .content {
+    background-color: #E9E9E9;
+    border: 1px solid white;
+}
+.sec1 .text p {
+    font-size: 20pt;
+    color: #4E5944;
+    text-align: center;
+}
+
+
+.sec2
+{
+    background-color: #EEEEEE;
+}
+.sec2 h2{
+    color: #57614E;
+}
+.sec2 p{
+    color: #626262;
+}
+.content_one a{
+   text-decoration:underline; 
+   color: #626262;
+}
+.content_two{
+    border-left:2px dotted white;
+}
+
+
+/* /////////////////////////////////////////////////// */
+
+.sec3{
+    background-color: #D2D2D2;
+    border: 2px solid white;
+}
+.sec3 h2{
+    color:#728063;
+    padding: 10px 0px;
+}
+.card{
+    background-color: #d4d6d4;
+    border: none;
+}
+.sec3 .card img{
+    border: 5px inset white ;
+    
+}
+ .card .card-title{
+    color:#777777;
+    font-size: 17px;
+}
+ .card .card-text {
+    color:#777777;
+    font-size: 14px;
+}
+.card-body .btn-secodary{
+    color: white !important;
+    
+    border-style:none;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.mid
+{
+    border-left: 1px dotted dimgray;
+    border-right: 1px dotted dimgray;
+}
+.sec4{
+    border-top: 2px white solid;
+    background-color: #D9D9D9;
+    color: #727272;
+}
+.sec4 .content p{
+font-size: 18px;
+}
+.sec4 .content h5{
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+.content ul{
+    list-style: none;
+    padding: 0px;
+}
+.content .btn-secondary{
+    
+    font-size: 14px;
+    font-weight:500;
+ }
+
+ .icons{
+    width: 50%;  
+    margin-top: 15px;
+}
+.copy
+    {
+        width: 50%;  
+        margin-top: 15px;
+    } 
+  .copy p
+  {
+  color:#ede1e1;
+      font-size: 15px;
+      text-align: right;
+  }
+  .footer
+  {
+    width: 980px;
+    margin: 0px auto;
+    display: flex;
+    
+  }
+  .sec6{
+    background-color: #58614E;
+  }
+  
+  
+  .sec6 .icons a  
+  {
+      display: inline-block;
+      font-size: 12px;
+      text-align: center;
+      width: 20px;
+      height: 15px;
+      border-radius: 30%;
+  
+  }
+  
+ a:hover .fab
+  {
+      color: rgb(211, 222, 231) !important;
+  }
+ 
+  .facebook a .fab
+  {
+      background-color: rgb(44, 44, 255);
+      
+  } 
+  .facebook a .fab
+  {
+      background-color: rgb(44, 44, 255);
+      
+  } 
+.facebook 
+  {
+      background-color: rgb(233, 233, 243);
+      
+  } 
+  .facebook:hover 
+  {
+    background: none!important;
+      
+  } 
+  .google 
+  {
+      background: #962f22 !important;
+      
+  }
+ 
+ .google:hover 
+  {
+      background: none!important;
+      
+  }
+  
+  .twiter
+  {
+      background-color: #d6e9f3;
+  
+  }
+ .twiter:hover 
+  {
+    background: none!important;
+  
+  }
+  
+
+  .Contact{
+    background-color: #D3D3D3;
+    color: #626262;
+    }
+    .Contact .content_left{
+        font-size: 14px;
+        color: #626262;
+    }
+    .Contact .content_left i{
+    margin-right: 5px;
+    }
+    .Contact .content_left li{
+        margin-left:5px;
+        margin-top: 10px;
+        }
+    .content_left h6{
+        display: inline;
+    }
+    .content_left h5{
+       font-family: serif;
+        border-bottom: 1px dotted white;
+        padding-bottom: 15px;
+    }
+    .Contact .content_right{
+     border-left: 1px dotted white;
+    }
+    .Contact .content_right h3{
+        font-family: serif;
+    }
+    .Contact .content_right label{
+        display: block;
+        margin-top: 10px;
+    }
+    .Contact .content_right .field{
+        width: 100%;
+        border: 1px solid #626262;
+        padding: 3px;
+    }
+    textarea{
+     border: .5px solid #626262; 
+     width: 100%;   
+    }
+    .content_right .btn{
+        display: block;
+        background-color: #626262;
+        padding: 5px 20px;
+        border: none;
+        color: #f7e0e0;
+        font-size: 14px;
+    }
+    
